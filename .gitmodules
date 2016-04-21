@@ -1,0 +1,3 @@
+[submodule "notes"]
+	path = notes
+	url = git@gist.github.com:2569a4dcb2ca5fc85457e77be2624ad9.git
